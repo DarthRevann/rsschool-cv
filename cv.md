@@ -40,12 +40,9 @@ function shuffle(array) {
 I don't have any experience in coding, except Swift Playgrounds
 
 # Education 
-* Belarusian State University of Informatics and Radioelectronics.
-Master's degree. System analysis, management and information processing. 2017
-* IT Academy. Business-analysis. 2017
-* QA Academy. Manual testing software. 2014
-* IT Academy BelHard. С/С++. 2013
+* International Information Techonolgies University (IITU , Almaty)
+bachelors degree. Specialty: radio technics, electronics and telecommunications
 
 
 # English  
-A2. I have experience communicating with a native speaker (USA) via Italki.com.
+Intermidiate. I had an opportunity speaking with chinese officers at an event at the Kazakhstan's embassy in Beijing. 
