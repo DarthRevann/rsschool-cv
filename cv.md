@@ -3,23 +3,18 @@ Junior iOS developer
 
 
 # Contacts
-* Phone: +375 29 610 24 38
-* Telegram: svd_bel
-* Skype: vasiliy_suhovenko
-* Linkedin: [Vasiliy Suhovenko](https://www.linkedin.com/in/vasiliy-suhovenko-067667142/)
-
+* Phone: +7 707 751 61 13
+* Telegram: shogun0l
+* Currently in Kazahstan, Almaty
 
 # Summary 
-I want to become a front-end developer, because javaScript drives me crazy, and perfectly smooth and beautiful web-pages make my sense of perfectionism exult.
-
+I want to become a mobile app developer. I see my future for the next 5 years: I'm a teamlead in big interesting company and my second goal is to make Kazakhstan more succesfull and respectable in world IT community. I love it.
 
 # Skills
-* HTML
-* CSS
-* JavaScript
-* SQL
-* Visual Basic Script
-
+* Swift Playgrounds
+* Communication
+* Command player
+* Emotional Intellect 
 
 # Code examples
 ```javascript
@@ -42,9 +37,7 @@ function shuffle(array) {
 
 
 # Experience 
-I have little experience as a front-end developer. 
-But everything is ahead.
-
+I don't have any experience in coding, except Swift Playgrounds
 
 # Education 
 * Belarusian State University of Informatics and Radioelectronics.
