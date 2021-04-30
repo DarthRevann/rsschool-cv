@@ -17,22 +17,22 @@ I want to become a mobile app developer. I see my future for the next 5 years: I
 * Emotional Intellect 
 
 # Code examples
-```javascript
-function shuffle(array) {
-    let shuffleArray = [];
-    let max = array.length - 1;
-    let min = 0;
+```Swift Playgrounds
+var gemCount = 0
 
-    for (let i = 0; i < array.length; i++) {
-        let j = 0;
-        do {
-            j = Math.round(min - 0.5 + Math.random() * (max - min + 0.5));
-        } while (shuffleArray[j] != undefined);
-
-        shuffleArray[j] = array[i];
-    }
-    return shuffleArray;
-}
+func turnRight() {
+    turnLeft()
+    turnLeft()
+    turnLeft()
+ }
+ 
+ while gemCount < 2 {
+    moveForward()
+    turnRight()
+    moveForward()
+    collectGem()
+    gemCount += 1
+ }
 ```
 
 
